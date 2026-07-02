@@ -1,0 +1,8 @@
+site_name: SEO Ranking Guide
+
+theme:
+  name: mkdocs
+
+nav:
+  - Home: index.md
+  - SEO Tips: seo-tips.md  
