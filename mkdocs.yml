@@ -2,11 +2,11 @@ site_name: SEO Ranking Guide
 
 theme:
   name: mkdocs
+  custom_dir: theme/
 
 
 nav:
   - Home: index.md
   - SEO Tips: seo-tips.md  
 
-extra_javascript:
-  - verify-google.js
+
