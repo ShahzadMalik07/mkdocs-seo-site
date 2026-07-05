@@ -18,6 +18,20 @@ Good SEO can help:
 - Generate more leads
 
 ---
+<div style="text-align: center; margin: 40px 0;">
+  <a href="https://www.google.com"
+     style="
+        background-color:#1976d2;
+        color:white;
+        padding:16px 40px;
+        text-decoration:none;
+        font-size:24px;
+        font-weight:bold;
+        border-radius:8px;
+        display:inline-block;">
+      Get Started
+  </a>
+</div>
 
 ## Why SEO Matters
 

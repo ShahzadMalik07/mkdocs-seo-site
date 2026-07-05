@@ -2,6 +2,7 @@ site_name: SEO Ranking Guide
 
 theme:
   name: mkdocs
+  custom_dir: overrides
 
 nav:
   - Home: index.md
